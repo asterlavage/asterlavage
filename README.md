@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @asterlavage
-- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on small projects to hone my skills and learn
 - 📫 How to reach me: https://www.linkedin.com/in/alex-sterlavage-828023272/
 
